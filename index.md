@@ -1,1 +1,1 @@
-This blog is for sharing notes on my various home projects. I am not a software developer or engineer. Just a hobbyist who is fasinated with home automation, IoT and anything that has blinking lights. 
+This blog is for sharing notes on my various home projects. I am not a software developer or engineer. Just a hobbyist who is fascinated with home automation, IoT and anything that has blinking lights. 
