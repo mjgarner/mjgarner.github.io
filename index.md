@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog is for sharing notes on my various home projects. I am not a software developer or engineer. Just a hobbyist who is fasinated with home automation, IoT and anything that has blinking lights. 
